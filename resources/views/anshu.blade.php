@@ -1,0 +1,1 @@
+<h2> hi this is a another file created and when i change the path through routes/web , then it will show</h2>
